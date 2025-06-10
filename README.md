@@ -7,5 +7,5 @@ Proggetto realizzato da Fienga Luigi [M63001733] e Andrea Roscigno [M63001778]
 
 Il seguente lavoro si presenta come un'esperienza ed un esperimento nell'uso di diverse tecniche per la sintesi di soggetti, ma con la pecularietà di usarlo sulle persone e fare in modo che sintetizzi due persone specifiche in una foto.
 Nel repository sono presenti:
--`dataset`: contentente le immagini usate per il lavoro, divisi per soggetti e classe(unica che è person). Poi è presente la sottocartella Raccolte contentet un sottinsime delle immagini precedenti in base agli esperimenti effettuati
--``
+    -`dataset`: contentente le immagini usate per il lavoro, divisi per soggetti e classe(unica che è person). Poi è presente la sottocartella Raccolte contentet un sottinsime delle immagini precedenti in base agli esperimenti effettuati
+    -``
