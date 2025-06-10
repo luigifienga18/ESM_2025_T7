@@ -1,1 +1,11 @@
 # ESM_2025_T7
+Proggetto realizzato da Fienga Luigi [M63001733] e Andrea Roscigno [M63001778]
+
+# Titolo da definire o Synthesis of Multiple Human Subjects o Multi-Human-Subjects synthesized with AI models
+
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png) Mettere il nostro logo
+
+Il seguente lavoro si presenta come un'esperienza ed un esperimento nell'uso di diverse tecniche per la sintesi di soggetti, ma con la pecularietà di usarlo sulle persone e fare in modo che sintetizzi due persone specifiche in una foto.
+Nel repository sono presenti:
+-`dataset`: contentente le immagini usate per il lavoro, divisi per soggetti e classe(unica che è person). Poi è presente la sottocartella Raccolte contentet un sottinsime delle immagini precedenti in base agli esperimenti effettuati
+-``
